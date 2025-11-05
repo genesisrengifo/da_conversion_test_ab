@@ -63,7 +63,6 @@ Este proyecto se centra en analizar el impacto de un sistema de recomendaciones 
 ![Markdown](https://img.shields.io/badge/Markdown-Documentation-lightgrey?logo=markdown&logoColor=black)
 
 ---
-Aquí tienes la sección “Cómo ejecutarlo” en formato Markdown, lista para incluir en tu README.md:
 
 ## ▶️ Cómo ejecutar el proyecto
 
