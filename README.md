@@ -2,16 +2,15 @@
 
 Descripción: El objetivo del proyecto fue evaluar el impacto de un sistema de recomendaciones mejorado en una tienda online, midiendo si lograba incrementar en al menos un 10% la conversión en las etapas clave del embudo de ventas: vista de producto, agregado al carrito y compra. Se implementó una prueba A/B para comparar el rendimiento entre usuarios con y sin el sistema mejorado.
 
-# Tecnologías:
+## Tecnologías:
 
-https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white
-https://img.shields.io/badge/pandas-Data%20Analysis-blueviolet?logo=pandas&logoColor=white
-https://img.shields.io/badge/NumPy-Numerical%20Computing-orange?logo=numpy&logoColor=white
-https://img.shields.io/badge/Matplotlib-Visualization-yellow?logo=matplotlib&logoColor=black
-https://img.shields.io/badge/Seaborn-Statistical%20Plots-teal?logo=python&logoColor=white
-https://img.shields.io/badge/SciPy-Statistical%20Tests-darkgreen?logo=scipy&logoColor=white
-https://img.shields.io/badge/Statsmodels-Hypothesis%20Testing-darkred?logo=python&logoColor=white
-https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-blueviolet?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-orange?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow?logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-teal?logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-Statistical%20Tests-darkgreen?logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-Hypothesis%20Testing-darkred?logo=python&logoColor=white)
 
 Responsabilidades:
 
